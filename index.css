@@ -47,6 +47,7 @@ body{
 td,th{
     text-align: left;
     height: 45px;
+    padding-left: 30px;
 }
 .table-img{
     display: flex;
